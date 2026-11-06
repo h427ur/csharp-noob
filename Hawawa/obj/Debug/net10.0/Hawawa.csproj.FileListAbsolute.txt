@@ -1,0 +1,14 @@
+/home/h427ur/Documents/workSpace/csharp/Hawawa/obj/Debug/net10.0/Hawawa.GeneratedMSBuildEditorConfig.editorconfig
+/home/h427ur/Documents/workSpace/csharp/Hawawa/obj/Debug/net10.0/Hawawa.AssemblyInfoInputs.cache
+/home/h427ur/Documents/workSpace/csharp/Hawawa/obj/Debug/net10.0/Hawawa.AssemblyInfo.cs
+/home/h427ur/Documents/workSpace/csharp/Hawawa/obj/Debug/net10.0/Hawawa.csproj.CoreCompileInputs.cache
+/home/h427ur/Documents/workSpace/csharp/Hawawa/bin/Debug/net10.0/Hawawa
+/home/h427ur/Documents/workSpace/csharp/Hawawa/bin/Debug/net10.0/Hawawa.deps.json
+/home/h427ur/Documents/workSpace/csharp/Hawawa/bin/Debug/net10.0/Hawawa.runtimeconfig.json
+/home/h427ur/Documents/workSpace/csharp/Hawawa/bin/Debug/net10.0/Hawawa.dll
+/home/h427ur/Documents/workSpace/csharp/Hawawa/bin/Debug/net10.0/Hawawa.pdb
+/home/h427ur/Documents/workSpace/csharp/Hawawa/obj/Debug/net10.0/Hawawa.dll
+/home/h427ur/Documents/workSpace/csharp/Hawawa/obj/Debug/net10.0/refint/Hawawa.dll
+/home/h427ur/Documents/workSpace/csharp/Hawawa/obj/Debug/net10.0/Hawawa.pdb
+/home/h427ur/Documents/workSpace/csharp/Hawawa/obj/Debug/net10.0/Hawawa.genruntimeconfig.cache
+/home/h427ur/Documents/workSpace/csharp/Hawawa/obj/Debug/net10.0/ref/Hawawa.dll

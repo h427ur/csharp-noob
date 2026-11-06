@@ -1,0 +1,14 @@
+/home/h427ur/Documents/workSpace/csharp/GenericChan/bin/Debug/net10.0/GenericChan
+/home/h427ur/Documents/workSpace/csharp/GenericChan/bin/Debug/net10.0/GenericChan.deps.json
+/home/h427ur/Documents/workSpace/csharp/GenericChan/bin/Debug/net10.0/GenericChan.runtimeconfig.json
+/home/h427ur/Documents/workSpace/csharp/GenericChan/bin/Debug/net10.0/GenericChan.dll
+/home/h427ur/Documents/workSpace/csharp/GenericChan/bin/Debug/net10.0/GenericChan.pdb
+/home/h427ur/Documents/workSpace/csharp/GenericChan/obj/Debug/net10.0/GenericChan.GeneratedMSBuildEditorConfig.editorconfig
+/home/h427ur/Documents/workSpace/csharp/GenericChan/obj/Debug/net10.0/GenericChan.AssemblyInfoInputs.cache
+/home/h427ur/Documents/workSpace/csharp/GenericChan/obj/Debug/net10.0/GenericChan.AssemblyInfo.cs
+/home/h427ur/Documents/workSpace/csharp/GenericChan/obj/Debug/net10.0/GenericChan.csproj.CoreCompileInputs.cache
+/home/h427ur/Documents/workSpace/csharp/GenericChan/obj/Debug/net10.0/GenericChan.dll
+/home/h427ur/Documents/workSpace/csharp/GenericChan/obj/Debug/net10.0/refint/GenericChan.dll
+/home/h427ur/Documents/workSpace/csharp/GenericChan/obj/Debug/net10.0/GenericChan.pdb
+/home/h427ur/Documents/workSpace/csharp/GenericChan/obj/Debug/net10.0/GenericChan.genruntimeconfig.cache
+/home/h427ur/Documents/workSpace/csharp/GenericChan/obj/Debug/net10.0/ref/GenericChan.dll

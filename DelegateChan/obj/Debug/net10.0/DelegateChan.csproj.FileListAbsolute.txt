@@ -1,0 +1,14 @@
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/bin/Debug/net10.0/DelegateChan
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/bin/Debug/net10.0/DelegateChan.deps.json
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/bin/Debug/net10.0/DelegateChan.runtimeconfig.json
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/bin/Debug/net10.0/DelegateChan.dll
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/bin/Debug/net10.0/DelegateChan.pdb
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/obj/Debug/net10.0/DelegateChan.GeneratedMSBuildEditorConfig.editorconfig
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/obj/Debug/net10.0/DelegateChan.AssemblyInfoInputs.cache
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/obj/Debug/net10.0/DelegateChan.AssemblyInfo.cs
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/obj/Debug/net10.0/DelegateChan.csproj.CoreCompileInputs.cache
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/obj/Debug/net10.0/DelegateChan.dll
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/obj/Debug/net10.0/refint/DelegateChan.dll
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/obj/Debug/net10.0/DelegateChan.pdb
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/obj/Debug/net10.0/DelegateChan.genruntimeconfig.cache
+/home/h427ur/Documents/workSpace/csharp/DelegateChan/obj/Debug/net10.0/ref/DelegateChan.dll

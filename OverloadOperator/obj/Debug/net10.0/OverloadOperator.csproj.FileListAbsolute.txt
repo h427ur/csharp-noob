@@ -1,0 +1,14 @@
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/bin/Debug/net10.0/OverloadOperator
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/bin/Debug/net10.0/OverloadOperator.deps.json
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/bin/Debug/net10.0/OverloadOperator.runtimeconfig.json
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/bin/Debug/net10.0/OverloadOperator.dll
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/bin/Debug/net10.0/OverloadOperator.pdb
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/obj/Debug/net10.0/OverloadOperator.GeneratedMSBuildEditorConfig.editorconfig
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/obj/Debug/net10.0/OverloadOperator.AssemblyInfoInputs.cache
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/obj/Debug/net10.0/OverloadOperator.AssemblyInfo.cs
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/obj/Debug/net10.0/OverloadOperator.csproj.CoreCompileInputs.cache
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/obj/Debug/net10.0/OverloadOperator.dll
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/obj/Debug/net10.0/refint/OverloadOperator.dll
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/obj/Debug/net10.0/OverloadOperator.pdb
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/obj/Debug/net10.0/OverloadOperator.genruntimeconfig.cache
+/home/h427ur/Documents/workSpace/csharp/OverloadOperator/obj/Debug/net10.0/ref/OverloadOperator.dll

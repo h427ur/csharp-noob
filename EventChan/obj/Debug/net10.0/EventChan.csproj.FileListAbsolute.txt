@@ -1,0 +1,14 @@
+/home/h427ur/Documents/workSpace/csharp/EventChan/obj/Debug/net10.0/EventChan.GeneratedMSBuildEditorConfig.editorconfig
+/home/h427ur/Documents/workSpace/csharp/EventChan/obj/Debug/net10.0/EventChan.AssemblyInfoInputs.cache
+/home/h427ur/Documents/workSpace/csharp/EventChan/obj/Debug/net10.0/EventChan.AssemblyInfo.cs
+/home/h427ur/Documents/workSpace/csharp/EventChan/obj/Debug/net10.0/EventChan.csproj.CoreCompileInputs.cache
+/home/h427ur/Documents/workSpace/csharp/EventChan/bin/Debug/net10.0/EventChan
+/home/h427ur/Documents/workSpace/csharp/EventChan/bin/Debug/net10.0/EventChan.deps.json
+/home/h427ur/Documents/workSpace/csharp/EventChan/bin/Debug/net10.0/EventChan.runtimeconfig.json
+/home/h427ur/Documents/workSpace/csharp/EventChan/bin/Debug/net10.0/EventChan.dll
+/home/h427ur/Documents/workSpace/csharp/EventChan/bin/Debug/net10.0/EventChan.pdb
+/home/h427ur/Documents/workSpace/csharp/EventChan/obj/Debug/net10.0/EventChan.dll
+/home/h427ur/Documents/workSpace/csharp/EventChan/obj/Debug/net10.0/refint/EventChan.dll
+/home/h427ur/Documents/workSpace/csharp/EventChan/obj/Debug/net10.0/EventChan.pdb
+/home/h427ur/Documents/workSpace/csharp/EventChan/obj/Debug/net10.0/EventChan.genruntimeconfig.cache
+/home/h427ur/Documents/workSpace/csharp/EventChan/obj/Debug/net10.0/ref/EventChan.dll

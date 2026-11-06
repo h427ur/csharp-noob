@@ -1,0 +1,14 @@
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/obj/Debug/net10.0/ThreadChan.GeneratedMSBuildEditorConfig.editorconfig
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/obj/Debug/net10.0/ThreadChan.AssemblyInfoInputs.cache
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/obj/Debug/net10.0/ThreadChan.AssemblyInfo.cs
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/obj/Debug/net10.0/ThreadChan.csproj.CoreCompileInputs.cache
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/bin/Debug/net10.0/ThreadChan
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/bin/Debug/net10.0/ThreadChan.deps.json
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/bin/Debug/net10.0/ThreadChan.runtimeconfig.json
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/bin/Debug/net10.0/ThreadChan.dll
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/bin/Debug/net10.0/ThreadChan.pdb
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/obj/Debug/net10.0/ThreadChan.dll
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/obj/Debug/net10.0/refint/ThreadChan.dll
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/obj/Debug/net10.0/ThreadChan.pdb
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/obj/Debug/net10.0/ThreadChan.genruntimeconfig.cache
+/home/h427ur/Documents/workSpace/csharp/ThreadChan/obj/Debug/net10.0/ref/ThreadChan.dll

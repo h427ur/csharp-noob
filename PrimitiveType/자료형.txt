@@ -1,0 +1,25 @@
+﻿수 형
+    부호화
+        sbyte - 8
+        short - 16
+        int - 32
+        long - 64
+    
+    미부호화(양수)
+        byte - 8
+        ushort - 16
+        uint - 32
+        ulong - 64
+        
+    실수 형
+        float - 32
+        double - 64
+
+    십진수
+        decimal - 128
+
+문자형
+    char - 16, unicode
+
+부울형
+    bool - true || false

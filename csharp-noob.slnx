@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="Array/Array.csproj" />
+  <Project Path="ClassExample/ClassExample.csproj" />
+  <Project Path="DelegateChan/DelegateChan.csproj" />
+  <Project Path="EventChan/EventChan.csproj" />
+  <Project Path="GenericChan/GenericChan.csproj" />
+  <Project Path="Hawawa/Hawawa.csproj" />
+  <Project Path="OverloadOperator/OverloadOperator.csproj" />
+  <Project Path="PrimitiveType/PrimitiveType.csproj" />
+  <Project Path="PropertyExample/PropertyExample.csproj" />
+  <Project Path="StringChan/StringChan.csproj" />
+  <Project Path="ThreadChan/ThreadChan.csproj" />
+</Solution>

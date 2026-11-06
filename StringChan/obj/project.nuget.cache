@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lUIwj0FwYG4=",
+  "success": true,
+  "projectFilePath": "/home/h427ur/Documents/workSpace/csharp/StringChan/StringChan.csproj",
+  "expectedPackageFiles": [
+    "/home/h427ur/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

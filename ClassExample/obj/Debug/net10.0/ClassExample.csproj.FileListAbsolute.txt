@@ -1,0 +1,14 @@
+/home/h427ur/Documents/workSpace/csharp/ClassExample/bin/Debug/net10.0/ClassExample
+/home/h427ur/Documents/workSpace/csharp/ClassExample/bin/Debug/net10.0/ClassExample.deps.json
+/home/h427ur/Documents/workSpace/csharp/ClassExample/bin/Debug/net10.0/ClassExample.runtimeconfig.json
+/home/h427ur/Documents/workSpace/csharp/ClassExample/bin/Debug/net10.0/ClassExample.dll
+/home/h427ur/Documents/workSpace/csharp/ClassExample/bin/Debug/net10.0/ClassExample.pdb
+/home/h427ur/Documents/workSpace/csharp/ClassExample/obj/Debug/net10.0/ClassExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/h427ur/Documents/workSpace/csharp/ClassExample/obj/Debug/net10.0/ClassExample.AssemblyInfoInputs.cache
+/home/h427ur/Documents/workSpace/csharp/ClassExample/obj/Debug/net10.0/ClassExample.AssemblyInfo.cs
+/home/h427ur/Documents/workSpace/csharp/ClassExample/obj/Debug/net10.0/ClassExample.csproj.CoreCompileInputs.cache
+/home/h427ur/Documents/workSpace/csharp/ClassExample/obj/Debug/net10.0/ClassExample.dll
+/home/h427ur/Documents/workSpace/csharp/ClassExample/obj/Debug/net10.0/refint/ClassExample.dll
+/home/h427ur/Documents/workSpace/csharp/ClassExample/obj/Debug/net10.0/ClassExample.pdb
+/home/h427ur/Documents/workSpace/csharp/ClassExample/obj/Debug/net10.0/ClassExample.genruntimeconfig.cache
+/home/h427ur/Documents/workSpace/csharp/ClassExample/obj/Debug/net10.0/ref/ClassExample.dll
