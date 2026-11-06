@@ -1,0 +1,6 @@
+.vscode/
+.zed/
+.gram/
+.idea/
+bin/
+obj/
